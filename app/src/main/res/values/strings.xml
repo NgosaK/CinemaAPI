@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gallery</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tables">Tables</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_artworkpage">artworkpage</string>
+    <string name="title_activity_art_work_page">ArtWorkPage</string>
+    <string name="title_activity_staff_page">StaffPage</string>
+    <string name="title_activity_museum_page">MuseumPAge</string>
+    <string name="title_activity_about_page">AboutPage</string>
+
+</resources>

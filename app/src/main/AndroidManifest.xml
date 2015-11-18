@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lord_code.za.gallery" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logog"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.lord_code.za.cinema.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lord_code.za.cinema.Tables"
+            android:label="@string/title_activity_tables" >
+        </activity>
+        <activity
+            android:name="com.lord_code.za.cinema.MoviePage"
+            android:label="@string/title_activity_art_work_page" >
+        </activity>
+        <activity
+            android:name="com.lord_code.za.cinema.ManagerPage"
+            android:label="@string/title_activity_staff_page" >
+        </activity>
+        <activity
+            android:name="com.lord_code.za.cinema.BeveragePage"
+            android:label="@string/title_activity_museum_page" >
+        </activity>
+        <activity
+            android:name="com.lord_code.za.cinema.AboutPage"
+            android:label="@string/title_activity_about_page" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/model/beverage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/model/manager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/model/movie.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/repositories/rest/RestBeverageAPI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/repositories/rest/RestManagerAPI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/repositories/rest/RestMovieAPI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/services/BeverageService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lord_code/za/cinema/services/ManagerService.java" charset="UTF-8" />
+  </component>
+</project>
